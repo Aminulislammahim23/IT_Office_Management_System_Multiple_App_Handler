@@ -1,0 +1,24 @@
+D:\test\IT Software\ByteGeeks IT\bin\Debug\ByteGeeks IT.exe.config
+D:\test\IT Software\ByteGeeks IT\bin\Debug\ByteGeeks IT.exe
+D:\test\IT Software\ByteGeeks IT\bin\Debug\ByteGeeks IT.pdb
+D:\test\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.csproj.AssemblyReference.cache
+D:\test\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks_IT.Start.resources
+D:\test\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks_IT.Properties.Resources.resources
+D:\test\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.csproj.GenerateResource.cache
+D:\test\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.csproj.CoreCompileInputs.cache
+D:\test\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.exe
+D:\test\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.pdb
+D:\test\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks_IT.ServerAccess.resources
+D:\develop software\IT Software\ByteGeeks IT\bin\Debug\ByteGeeks IT.exe.config
+D:\develop software\IT Software\ByteGeeks IT\bin\Debug\ByteGeeks IT.exe
+D:\develop software\IT Software\ByteGeeks IT\bin\Debug\ByteGeeks IT.pdb
+D:\develop software\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.csproj.AssemblyReference.cache
+D:\develop software\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.exe.config
+D:\develop software\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks_IT.ServerAccess.resources
+D:\develop software\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks_IT.Start.resources
+D:\develop software\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks_IT.Properties.Resources.resources
+D:\develop software\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks_IT.UCweb.resources
+D:\develop software\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.csproj.GenerateResource.cache
+D:\develop software\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.csproj.CoreCompileInputs.cache
+D:\develop software\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.exe
+D:\develop software\IT Software\ByteGeeks IT\obj\Debug\ByteGeeks IT.pdb

@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|d:\\github push files\\c# projects\\it_office_management_system_multiple_app_handler\\serveraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|solutionrelative:serveraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\ucweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|solutionrelative:ucweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\serveraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|solutionrelative:serveraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|solutionrelative:start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|solutionrelative:start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA90B715-FE69-4768-A8C5-80E214FD01EC}|ByteGeeks IT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCweb.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\UCweb.cs",
+              "RelativeDocumentMoniker": "UCweb.cs",
+              "ToolTip": "D:\\test\\IT Software\\ByteGeeks IT\\UCweb.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\test\\IT Software\\ByteGeeks IT\\UCweb.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:04:42.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerAccess.cs",
+              "DocumentMoniker": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\ServerAccess.cs",
+              "RelativeDocumentMoniker": "ServerAccess.cs",
+              "ToolTip": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\ServerAccess.cs",
+              "RelativeToolTip": "ServerAccess.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:03:31.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Start.cs",
+              "DocumentMoniker": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\Start.cs",
+              "RelativeDocumentMoniker": "Start.cs",
+              "ToolTip": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\Start.cs",
+              "RelativeToolTip": "Start.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:48:27.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerAccess.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\ServerAccess.cs",
+              "RelativeDocumentMoniker": "ServerAccess.cs",
+              "ToolTip": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\ServerAccess.cs [Design]",
+              "RelativeToolTip": "ServerAccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:45:22.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\Server.cs",
+              "RelativeToolTip": "Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:41:43.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:38:40.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Start.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub Push files\\C# projects\\IT_Office_Management_System_Multiple_App_Handler\\Start.cs",
+              "RelativeDocumentMoniker": "Start.cs",
+              "ToolTip": "D:\\test\\IT Software\\ByteGeeks IT\\Start.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\test\\IT Software\\ByteGeeks IT\\Start.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:30:18.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
